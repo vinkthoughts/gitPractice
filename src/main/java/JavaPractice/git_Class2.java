@@ -35,4 +35,18 @@ public class git_Class2 {
 
 	}
 
+	public void method6(){
+
+		System.out.println("method created in intellij after creating developement branch in git");
+
+		System.out.println("new method created");
+	}
+
+	public void method7(){
+
+		System.out.println("method created in intellij after creating developement branch in git");
+
+		System.out.println("new method created");
+	}
+
 }

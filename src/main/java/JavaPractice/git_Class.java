@@ -10,4 +10,11 @@ public class git_Class {
         
         System.out.println("changes after creating new developement branch in GitEclipse project");
     }
+
+    public void method2(){
+
+        System.out.println("method created in intellij after creating developement branch in git");
+
+        System.out.println("new method created");
+    }
 }
