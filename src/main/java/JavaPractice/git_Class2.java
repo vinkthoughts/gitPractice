@@ -27,5 +27,12 @@ public class git_Class2 {
 
 
 	}
+	
+	public void Method5() {  
+
+		System.out.println("changes after creating new developement branch in GitEclipse project");
+
+
+	}
 
 }
