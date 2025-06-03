@@ -22,5 +22,12 @@ public class git_Class8 {
 
 
     }
+
+    public void Method3() {
+
+        System.out.println("method created in class git_Class8 in intellij developement branch to pull in master branch");
+
+
+    }
 	
 }
