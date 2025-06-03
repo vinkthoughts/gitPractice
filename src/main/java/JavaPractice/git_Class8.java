@@ -15,5 +15,12 @@ public class git_Class8 {
 
 
     }
+    
+    public void Method2() {
+
+        System.out.println("method created in class git_Class8");
+
+
+    }
 	
 }
