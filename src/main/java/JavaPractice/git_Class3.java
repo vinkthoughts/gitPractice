@@ -16,4 +16,25 @@ public class git_Class3 {
 
 	}
 
+	public void Method2() {
+
+		System.out.println("new method created in class git_Class3 in intellij");
+
+
+	}
+
+	public void Method3() {
+
+		System.out.println("new method created in class git_Class3 in intellij");
+
+
+	}
+
+	public void Method4() {
+
+		System.out.println("new method created in class git_Class3 in intellij");
+
+
+	}
+
 }
